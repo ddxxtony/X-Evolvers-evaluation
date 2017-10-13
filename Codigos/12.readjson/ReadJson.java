@@ -10,7 +10,7 @@ public class ReadJson {
 
     public static void main(String[] args) throws FileNotFoundException, IOException {
         
-        read_json("C:\\Users\\ellui\\Desktop\\prueba.json");
+        read_json("prueba.json");
 
     
 
