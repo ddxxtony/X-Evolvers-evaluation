@@ -1,21 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package multiples;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author ellui
- */
+
 public class multiples {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
 
        // we will declare  this list which will be used to store all
